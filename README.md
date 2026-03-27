@@ -103,7 +103,6 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Icon Libraries
 
-- [hugeicons](https://github.com/hugeicons/react) - Beautiful, production-ready icons for React projects
 - [react-icons](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
 - [lucide-react](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit
 - [heroicons](https://github.com/tailwindlabs/heroicons) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS
