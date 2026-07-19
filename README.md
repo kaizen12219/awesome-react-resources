@@ -330,6 +330,7 @@ React renderers for 3D graphics, command-line apps, video generation, PDF genera
 - [React PDF](https://github.com/diegomura/react-pdf) - Create PDF files using React.
 - [React Figma](https://github.com/react-figma/react-figma) - React renderer for Figma.
 - [Markdown to JSX](https://github.com/quantizor/markdown-to-jsx) - Markdown rendering for React.
+- [Markstream React](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for React, Next.js, and Remix, built for incomplete AI/chat output.
 
 ---
 
