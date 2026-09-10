@@ -107,6 +107,7 @@ Best React tutorials, guides, architecture resources, interview preparation, and
 - [Patterns.dev](https://www.patterns.dev/) - Design patterns and component patterns for modern web apps.
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react) - Scalable architecture for production-ready React applications.
 - [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - TypeScript guide for React developers.
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript reference covering fundamentals through advanced concepts, with 10,300+ stars on GitHub.
 
 ---
 
