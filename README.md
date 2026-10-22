@@ -108,6 +108,7 @@ Best React tutorials, guides, architecture resources, interview preparation, and
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react) - Scalable architecture for production-ready React applications.
 - [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - TypeScript guide for React developers.
 - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript reference covering everything from fundamentals to advanced concepts, including TypeScript with React.
+- [Use SVG Icons in React with Vite and SVGR](https://iconvectors.io/tutorials/use-svg-icons-in-react-with-vite-svgr.html) - Practical guide to importing, theming and using SVG icons in React applications with Vite and SVGR.
 
 ---
 
