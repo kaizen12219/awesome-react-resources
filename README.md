@@ -229,6 +229,7 @@ Testing libraries and end-to-end testing tools for React applications.
 - [React Testing Library](https://github.com/testing-library/react-testing-library) - Testing utilities for React DOM.
 - [Cypress](https://github.com/cypress-io/cypress) - End-to-end testing for web applications.
 - [Playwright](https://github.com/microsoft/playwright) - Browser automation and web testing framework.
+- [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile regression tests, with test memory and UI-change adaptation.
 
 ---
 
