@@ -141,6 +141,7 @@ Best React component libraries, UI kits, design systems, headless components, an
 - [React Bits](https://github.com/DavidHDev/react-bits) - Animated and interactive React components.
 - [8bitcn UI](https://github.com/TheOrcDev/8bitcn-ui) - Retro 8-bit themed React component library.
 - [Ruixen UI](https://github.com/ruixenui/ruixen.com) - Lightweight modern React component library.
+- [qodesign-free](https://github.com/teodoravadani/qodesign-free) - Animated components and dashboards built with Tailwind CSS and Motion, installable with the shadcn CLI.
 
 ---
 
