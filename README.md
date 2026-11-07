@@ -141,6 +141,7 @@ Best React component libraries, UI kits, design systems, headless components, an
 - [React Bits](https://github.com/DavidHDev/react-bits) - Animated and interactive React components.
 - [8bitcn UI](https://github.com/TheOrcDev/8bitcn-ui) - Retro 8-bit themed React component library.
 - [Ruixen UI](https://github.com/ruixenui/ruixen.com) - Lightweight modern React component library.
+- [OTF UI](https://otf-kit.dev/components?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=2026-10-18-sdk-kaizen-react) - Free, open-source UI packages for React and React Native; the gallery documents 109 installable components (90 web + 19 React Native). Source: https://github.com/otf-kit/sdk.
 
 ---
 
